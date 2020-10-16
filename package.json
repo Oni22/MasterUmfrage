@@ -1,0 +1,19 @@
+{
+  "name": "masterumfrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./server/index.js",
+    "client": "cd ./client && npm run serve",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Onur Oezkan",
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
