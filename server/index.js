@@ -21,9 +21,8 @@ graphql.use(express.json())
 
 //-----------------GRAPHQL API-----------------------------
 // Implement the GraphQL API
-// you can use localhost:4000/graphql for testing
+// you can use localhost:4000/graphql for testing if you enable graphiql
 // tutorial for graphQL: https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&index=1
-
 
 
 
