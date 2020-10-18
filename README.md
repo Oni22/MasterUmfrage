@@ -12,10 +12,9 @@ REST API --> `localhost:3000`
 
 GRAPHQL API --> `localhost:4000`
 
+GRAPHQL API Testumgebung --> `localhost:4000/graphql`
+
 Client (Vue.js App) --> `localhost:8080`
-
-
-***
 
 
 ## 2)  Aufgabe Server-Side
@@ -50,8 +49,6 @@ Für ein Produkt sollen folgende Daten angezeigt werden:
 Fetche die Daten des Shops "Oma Lise" und zeige die Produkte an die dieser Shop anbietet. 
 
 ## 3) Umfrage
-
-***
 
 Bitte beantworte zum Schluss folgende Umfrage: https://forms.gle/k4Ds46UnaS5SNe6z9
 
