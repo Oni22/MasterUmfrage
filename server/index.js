@@ -3,7 +3,7 @@
 const express = require("express");
 const rest = express();
 const graphql = express();
-//Shops and products
+//Shops db and products db
 var { shops, products } = require('./db')
 var cors = require('cors')
 
@@ -23,8 +23,6 @@ graphql.use(express.json())
 // Implement the GraphQL API
 // you can use localhost:4000/graphql for testing if you enable graphiql
 // tutorial for graphQL: https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&index=1
-
-
 
 
 

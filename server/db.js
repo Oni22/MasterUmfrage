@@ -2,7 +2,7 @@
 
 var shops = [
     {
-        id: "1",
+        id: "0",
         name: "Tante Emma",
         address: "Tantestraße 2",
         products: ["10","3"],
@@ -12,7 +12,7 @@ var shops = [
         type: "market"
     },
     {
-        id: "2",
+        id: "1",
         name: "Oma Lise",
         address: "Lisedamm 32",
         products: ["1","5"],
